@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RhymesList">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rhymes List"
+        android:textSize="100px"
+        android:textStyle="bold"
+        android:textColor="#5D34D7"
+        android:textAlignment="center"
+        android:layout_margin="40px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click to watch videos"
+        android:textSize="70px"
+        android:textStyle="bold"
+        android:textColor="#5D34D7"
+        android:textAlignment="center"
+        android:layout_margin="60px"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/old"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Old MacDonald"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"/>
+
+            <Button
+                android:id="@+id/humpty"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Humpty Dumpty"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#534D4D"/>
+
+            <Button
+                android:id="@+id/twinkle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Twinkle, twinkle"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#A7901A"/>
+
+            <Button
+                android:id="@+id/blacksheep"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Baa, baa, black sheep"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#901D1D"/>
+
+            <Button
+                android:id="@+id/londonbridge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="London Bridge"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#C5106A"/>
+
+            <Button
+                android:id="@+id/wheels"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Wheels on the Bus"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"/>
+
+            <Button
+                android:id="@+id/hickory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hickory Dickory Dock"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#534D4D"/>
+
+            <Button
+                android:id="@+id/ducks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Five Little Ducks"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#A7901A"/>
+
+            <Button
+                android:id="@+id/jackjill"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jack and Jill"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#901D1D"/>
+
+            <Button
+                android:id="@+id/rain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rain Rain Go Away"
+                android:textSize="60px"
+                android:layout_marginLeft="70px"
+                android:layout_marginRight="100px"
+                android:layout_marginBottom="60px"
+                android:backgroundTint="#C5106A"/>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

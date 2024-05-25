@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Nursery Rhymes</string>
+    <string name="old">Old MacDonald had a farm, E-I-E-I-O\n
+And on that farm he had a pig, E-I-E-I-O\n
+With a oink-oink here and a oink-oink there\n
+Here a oink, there a oink, everywhere a oink-oink\n
+Old MacDonald had a farm, E-I-E-I-O\n
+And on that farm he had a duck, E-I-E-I-O\n
+With a quack-quack here and a quack-quack there\n
+Here a quack, there a quack, everywhere a quack-quack\n
+Oink-oink here and a oink-oink there\n
+Here a oink, there a oink, everywhere a oink-oink\n
+Old MacDonald had a farm, E-I-E-I-O\n
+Old MacDonald had a farm, E-I-E-I-O\n
+And on that farm he had a cow, E-I-E-I-O\n
+With a moo-moo here and a moo-moo there\n
+Here a moo, there a moo, everywhere a moo-moo\n
+Quack-quack here and a quack-quack there\n
+Here a quack, there a quack, everywhere a quack-quack\n
+Oink-oink here and a oink-oink there\n
+Here a oink, there a oink, everywhere a oink-oink\n
+Old MacDonald had a farm, E-I-E-I-O\n
+Old MacDonald had a farm, E-I-E-I-O\n
+And on that farm he had a mouse, E-I-E-I-O\n
+With a squeak-squeak here and a squeak-squeak there\n
+Here a squeak, there a squeak, everywhere a squeak-squeak\n
+Moo-moo here and a moo-moo there\n
+Here a moo, there a moo, everywhere a moo-moo\n
+Quack-quack here and a quack-quack there\n
+Here a quack, there a quack, everywhere a quack-quack\n
+Oink-oink here and a oink-oink there\n
+Here a oink, there a oink, everywhere a oink-oink\n
+Old MacDonald had a farm, E-I-E-I-O\n</string>
+    <string name="humpty">Humpty Dumpty sat on a wall\n
+Humpty Dumpty had a great fall\n
+All the king\'s horses and all the king\'s men\n
+Couldn\'t put Humpty together again\n
+Humpty Dumpty sat on a wall\n
+Humpty Dumpty had a great fall\n
+All the king\'s horses and all the king\'s men\n
+Couldn\'t put Humpty together again\n</string>
+    <string name="twinkle">Twinkle, twinkle, little star\n
+How I wonder what you are\n
+Up above the world so high\n
+Like a diamond in the sky\n
+Twinkle, twinkle, little star\n
+How I wonder what you are\n
+Twinkle, twinkle, little star\n
+How I wonder what you are\n
+Up above the world so high\n
+Like a diamond in the sky\n</string>
+    <string name="blacksheep">Baa, baa, black sheep, have you any wool?\n
+Yes, sir, yes, sir, three bags full\n
+One for the master, one for the dame\n
+One for the little boy who lives down the lane\n
+Baa, baa, black sheep, have you any wool?\n
+Yes, sir, yes, sir, three bags full\n
+Baa, baa, blue sheep, have you any wool?\n
+Yes, sir, yes, sir, three bags full\n
+One for the master, one for the dame\n
+One for the little boy who lives down the lane\n
+</string>
+    <string name="londonbridge">London Bridge is falling down\n
+Falling down, falling down\n
+London Bridge is falling down\n
+My fair lady\n
+Build it up with iron bars\n
+Iron bars, iron bars\n
+Build it up with iron bars\n
+My fair lady\n
+Iron bars will bend and break\n
+Bend and break, bend and break\n
+Iron bars will bend and break\n
+My fair lady\n
+Build it up with gold and silver\n
+Gold and silver, gold and silver\n
+Build it up with gold and silver\n
+My fair lady\n
+Gold and silver we\'ve not got\n
+We\'ve not got, we\'ve not got\n
+Gold and silver we\'ve not got\n
+My fair lady\n
+London Bridge is falling down\n
+Falling down, falling down\n
+London Bridge is falling down\n
+My fair lady\n
+London Bridge is falling down\n
+Falling down, falling down\n
+London Bridge is falling down\n
+My fair lady\n</string>
+    <string name="wheels">The wheels on the bus go round and round\n
+Round and round\n
+Round and round\n
+The wheels on the bus go round and round\n
+All through the town\n
+The doors on the bus go open and shut\n
+Open and shut\n
+Open and shut\n
+The doors on the bus go open and shut\n
+All through the town\n
+The wipers on the bus go swish, swish, swish\n
+Swish, swish, swish\n
+Swish, swish, swish\n
+The wipers on the bus go swish, swish, swish\n
+All through the town\n
+The signals on the bus go blink, blink, blink\n
+Blink, blink, blink\n
+Blink, blink, blink\n
+The signals on the bus go blink, blink, blink\n
+All through the town\n
+The horn on the bus goes beep, beep, beep\n
+Beep, beep, beep\n
+Beep, beep, beep\n
+The horn on the bus goes beep, beep, beep\n
+All through the town\n
+The motor on the bus goes vroom, vroom, vroom\n
+Vroom, vroom, vroom\n
+Vroom, vroom, vroom\n
+The motor on the bus goes vroom, vroom, vroom\n
+All through the town\n
+The people on the bus go up and down\n
+Up and down\n
+Up and down\n
+The people on the bus go up and down\n
+All through the town\n
+The babies on the bus go, "Wah, wah, wah"\n
+"Wah, wah, wah"\n
+"Wah, wah, wah"\n
+The babies on the bus go, "Wah, wah, wah"\n
+All through the town\n
+The mommies on the bus go, "Shh, shh, shh"\n
+"Shh, shh, shh"\n
+"Shh, shh, shh"\n
+The mommies on the bus go, "Shh, shh, shh"\n
+All through the town\n
+The daddies on the bus go, "I love you"\n
+"I love you"\n
+"I love you"\n
+The daddies on the bus go, "I love you"\n
+All through the town\n
+The wheels on the bus go round and round\n
+Round and round\n
+Round and round\n
+The wheels on the bus go round and round\n
+All through the town\n</string>
+    <string name="hickory">Hickory dickory dock.\n The mouse went up the clock\n
+The clock struck one. \nThe mouse went down\n
+Hickory dickory dock\n
+Tick tock, tick tock, tick tock, tick tock\n
+A snake\n
+Hickory dickory dock. \nThe snake went up the clock\n
+The clock struck two. \nThe snake went down\n
+Hickory dickory dock\n
+Tick tock, tick tock, tick tock, tick tock\n
+A squirrel\n
+Hickory dickory dock. \nThe squirrel went up the clock\n
+The clock struck three. \nThe squirrel went down\n
+Hickory dickory dock\n
+Tick tock, tick tock, tick tock, tick tock\n
+A cat\n
+Hickory dickory dock. \nThe cat went up the clock\n
+The clock struck four. \nThe cat went down\n
+Hickory dickory dock\n
+Tick tock, tick tock, tick tock, tick tock\n
+A monkey\n
+Hickory dickory dock. \nThe monkey went up the clock\n
+The clock struck five. \nThe monkey went down\n
+Hickory dickory dock\n
+Tick tock, tick tock, tick tock, tick tock\n
+An elephant, oh no\n
+Hickory dickory dock.\n The elephant went up the clock\n
+Oh no\n
+Hickory dickory dock\n</string>
+    <string name="ducks">
+        Five little ducks went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+But only four little ducks came back.\n
+
+1, 2, 3, 4.\n
+
+Four little ducks went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+But only three little ducks came back.\n
+
+1, 2, 3.\n
+
+Three little ducks went out one day.\n
+Over the hill and far away.\n
+Mother duck said,\n “Quack, quack, quack, quack.”\n
+But only two little ducks came back.\n
+
+1, 2.\n
+
+Two little ducks went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+But only one little duck came back.\n
+
+1.\n
+
+One little duck went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+But none of the five little ducks came back.\n
+
+Sad mother duck went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+And all of five little ducks came back.\n
+
+Five little ducks went out one day.\n
+Over the hill and far away.\n
+Mother duck said, \n“Quack, quack, quack, quack.”\n
+And all of the five little ducks came back!\n
+    </string>
+    <string name="jackjill">Jack and Jill went up the hill\n
+To fetch a pail of water.\n
+Jack fell down and broke his crown,\n
+And Jill came tumbling after.\n\n
+
+Up Jack got, and home did trot,\n
+As fast as he could caper,\n
+He went to bed to mend his head,\n
+With vinegar and brown paper.\n</string>
+    <string name="rain">Rain, rain, go away.\n
+Come again another day.\n
+All the children want to play.\n
+Rain, rain, go away.\n</string>
+
+</resources>
